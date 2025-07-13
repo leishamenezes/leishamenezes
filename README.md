@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leishamenezes
 - 👀 I’m interested in singing, exploring, coding and trying new things
-- 🌱 I’m currently learning python programming
+- Coding Skills: Python, MySQL, Java
 - 📫 How to reach me: leishamenezes@outlook.com
 - 😄 Pronouns: she/her
 
