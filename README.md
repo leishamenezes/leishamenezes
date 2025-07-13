@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @leishamenezes
+- Hi, I’m Leisha Menezes
 - 👀 I’m interested in singing, exploring, coding and trying new things
 - Coding Skills: Python, MySQL, Java
-- 📫 How to reach me: leishamenezes@outlook.com
-- 😄 Pronouns: she/her
+- How to reach me: leishamenezes@outlook.com
+- Pronouns: she/her
 
 
 <!---
